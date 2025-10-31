@@ -18,9 +18,9 @@
 |--------------|----------------|----------------|----------------|
 | Python | NumPy, Pandas | Google Cloud | Power BI |
 | SQL | Matplotlib, Seaborn | Azure | Streamlit |
-| Java | LangChain | Docker | — |
-| C | MISP | DigitalOcean | — |
-| JavaScript | — | MongoDB | — |
+| Java | LangChain | Docker |  |
+| C | MISP | DigitalOcean |  |
+| JavaScript |  | MongoDB |  |
 
 ---
 
