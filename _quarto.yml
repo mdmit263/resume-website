@@ -1,13 +1,8 @@
-# ==============================
-#  MIT JAYESH DOSHI — PORTFOLIO
-# ==============================
-
 profile:
-  default: production
+  default: development
 
 project:
   type: website
-  output-dir: _site
   pre-render:
     - ./pre-render.py
   post-render:
@@ -16,41 +11,40 @@ project:
     - "RESUME.md"
 
 website:
-  title: "Mit Jayesh Doshi | AI & Cybersecurity Portfolio"
-  description: "Professional resume and portfolio of Mit Jayesh Doshi — specializing in AI, cybersecurity, and data science."
-  favicon: assets/favicon.ico
-  site-url: https://resume.mitdoshi.com
-  repo-url: https://github.com/mitdoshi
-  repo-actions: [edit, issue]
-  search: false
+  title: "Mit Jayesh Doshi"
+  description: "AI Enthusiast & Cybersecurity Professional"
+  favicon: "assets/favicon.ico"
 
   navbar:
     background: dark
+    search: false
     left:
       - text: "Home"
-        href: index.html
+        href: "index.html"
       - text: "Projects"
-        href: #projects
+        href: "index.html#projects"
       - text: "Certifications"
-        href: #certifications
+        href: "index.html#certifications"
       - text: "Contact"
-        href: #contact
+        href: "index.html#contact"
     right:
       - icon: github
-        href: https://github.com/mitdoshi
+        href: "https://github.com/mitdoshi"
       - icon: linkedin
-        href: https://linkedin.com/in/mitjayeshdoshi
+        href: "https://linkedin.com/in/mitjayeshdoshi"
       - icon: envelope
-        href: mailto:doshimit3015@gmail.com
+        href: "mailto:doshimit3015@gmail.com"
 
   page-footer:
     border: true
     background: dark
-    left: 
-      - text: "© 2025 Mit Jayesh Doshi. All rights reserved."
-    right:
+    center: 
       - text: "<b>Download PDF</b>"
-        href: /resume.pdf
+        href: "/index.pdf"
+      - text: "© 2025 Mit Jayesh Doshi — All Rights Reserved"
+    right:
+      - text: "Back to Top"
+        href: "#top"
 
 format-links: false
 
@@ -59,32 +53,14 @@ format:
     theme:
       light: cosmo
       dark: darkly
-    toc: false
+    toc: true
+    toc-location: left
     smooth-scroll: true
-    link-external-newwindow: true
-    anchor-sections: true
+    number-sections: false
     css: styles.css
-    code-copy: true
-    code-overflow: wrap
-    mainfont: "Inter"
-    monofont: "JetBrains Mono"
-    fontsize: 1rem
+    link-external-newwindow: true
     page-layout: full
-    highlight-style: atom-one-dark
-    canonical-url: true
-
-  pdf:
-    documentclass: scrartcl
-    geometry: "margin=1in"
-    keep-tex: true
-    colorlinks: true
-    mainfont: Helvetica
-    papersize: letter
-    toc: false
-    highlight-style: pygments
-    pdf-engine: xelatex
+  pdf: default
 
 resources:
   - CNAME
-  - assets/
-  - styles.css
