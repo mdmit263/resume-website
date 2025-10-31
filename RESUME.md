@@ -1,7 +1,7 @@
 # **Mit Jayesh Doshi**
 ### *AI Enthusiast & Cybersecurity*
 📧 [doshimit3015@gmail.com](mailto:doshimit3015@gmail.com) | 📱 +1 (437) 966-9907 | 📍 Toronto, ON, Canada  
-🔗 [LinkedIn](https://linkedin.com/in/mitjayeshdoshi) | [GitHub](https://github.com/mitdoshi)
+🔗 [LinkedIn](www.linkedin.com/in/mit2632) | [GitHub](https://github.com/mdmit263)
 
 ---
 
@@ -55,14 +55,16 @@
 - Built an NLP-based matching engine to compare resumes with job descriptions, achieving **85%+** accuracy in semantic similarity.  
 - Designed a keyword recommendation system, boosting applicant ATS scores by **20–30%**.  
 - Deployed a full-stack Streamlit Cloud app with CI/CD pipelines using GitHub Actions for real-time updates.  
-**Tools:** Python, Streamlit, Sentence-Transformers, GitHub Actions  
+**Tools:** Python, Streamlit, Sentence-Transformers, GitHub Actions
+**Link:** https://resume-jd-matcher.streamlit.app/    
 
 ---
 
 ### **AI Text Summarizer (News/Legal)** *(Mar 2025)*
 - Built a Streamlit app to summarize long-form text using BART & T5 NLP models, reducing document review time by **40%**.  
 - Added adjustable summary-length sliders and deployed on Streamlit Cloud with **98% uptime**.  
-**Tools:** Python, Streamlit, Hugging Face Transformers  
+**Tools:** Python, Streamlit, Hugging Face Transformers
+**Link:** https://text-summarizer-using-ai.streamlit.app/ 
 
 ---
 
@@ -97,9 +99,10 @@
 
 ## 📜 Certifications
 
+- **Power BI** – Udemy *(Aug 2025)*
 - **CCNA IP Addressing and Subnetting** – GNS3 Academy *(Oct 2024)*  
-- **Python 101 for Data Science, Tableau, Power BI** – IBM Skills Network *(Mar 2023)*  
-- **Power BI** – Udemy *(Aug 2025)*  
+- **Python 101 for Data Science, Tableau** – IBM Skills Network *(Mar 2023)*  
+  
 
 ---
 
