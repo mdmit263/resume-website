@@ -1,32 +1,90 @@
+# ==============================
+#  MIT JAYESH DOSHI — PORTFOLIO
+# ==============================
+
 profile:
-  default: development
+  default: production
+
 project:
   type: website
+  output-dir: _site
   pre-render:
     - ./pre-render.py
   post-render:
     - ./post-render.py
   render:
     - "RESUME.md"
+
 website:
+  title: "Mit Jayesh Doshi | AI & Cybersecurity Portfolio"
+  description: "Professional resume and portfolio of Mit Jayesh Doshi — specializing in AI, cybersecurity, and data science."
+  favicon: assets/favicon.ico
+  site-url: https://resume.mitdoshi.com
+  repo-url: https://github.com/mitdoshi
+  repo-actions: [edit, issue]
+  search: false
+
+  navbar:
+    background: dark
+    left:
+      - text: "Home"
+        href: index.html
+      - text: "Projects"
+        href: #projects
+      - text: "Certifications"
+        href: #certifications
+      - text: "Contact"
+        href: #contact
+    right:
+      - icon: github
+        href: https://github.com/mitdoshi
+      - icon: linkedin
+        href: https://linkedin.com/in/mitjayeshdoshi
+      - icon: envelope
+        href: mailto:doshimit3015@gmail.com
+
   page-footer:
     border: true
     background: dark
-    center: 
+    left: 
+      - text: "© 2025 Mit Jayesh Doshi. All rights reserved."
+    right:
       - text: "<b>Download PDF</b>"
-        href: /index.pdf
+        href: /resume.pdf
+
 format-links: false
+
 format:
   html:
     theme:
       light: cosmo
       dark: darkly
-    css: styles.css
+    toc: false
+    smooth-scroll: true
     link-external-newwindow: true
+    anchor-sections: true
+    css: styles.css
+    code-copy: true
+    code-overflow: wrap
+    mainfont: "Inter"
+    monofont: "JetBrains Mono"
+    fontsize: 1rem
+    page-layout: full
+    highlight-style: atom-one-dark
     canonical-url: true
-  pdf: default
+
+  pdf:
+    documentclass: scrartcl
+    geometry: "margin=1in"
+    keep-tex: true
+    colorlinks: true
+    mainfont: Helvetica
+    papersize: letter
+    toc: false
+    highlight-style: pygments
+    pdf-engine: xelatex
+
 resources:
   - CNAME
-
-
-
+  - assets/
+  - styles.css
