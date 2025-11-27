@@ -21,6 +21,8 @@ website:
     left:
       - text: "Home"
         href: "index.html"
+      - text: "Education"
+        href: "index.html#education"
       - text: "Projects"
         href: "index.html#projects"
       - text: "Certifications"
@@ -29,7 +31,7 @@ website:
         href: "index.html#contact"
     right:
       - icon: github
-        href: "https://github.com/mitdoshi"
+        href: "https://github.com/mdmit263"
       - icon: linkedin
         href: "https://linkedin.com/in/mitjayeshdoshi"
       - icon: envelope
