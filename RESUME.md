@@ -40,7 +40,7 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects - [GitHub](https://github.com/mdmit263)
 
 ### **Cyber Threat Intelligence Automation & Analytics** *(Sep 2025)*
 - Designed and deployed a Docker-based MISP integration automating live threat feeds (APT28, APT29, CIRCL, OpenCTI), improving analyst response speed by **25%**.  
