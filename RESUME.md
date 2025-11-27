@@ -57,7 +57,7 @@
 - Deployed a full-stack Streamlit Cloud app with CI/CD pipelines using GitHub Actions for real-time updates.  
 **Tools:** Python, Streamlit, Sentence-Transformers, GitHub Actions
 
-**[Link]((https://resume-jd-matcher.streamlit.app/))** 
+**[Link](((https://resume-jd-matcher.streamlit.app/)))** 
 
 ---
 
@@ -66,7 +66,7 @@
 - Added adjustable summary-length sliders and deployed on Streamlit Cloud with **98% uptime**.  
 **Tools:** Python, Streamlit, Hugging Face Transformers
 
-**[Link]((https://text-summarizer-using-ai.streamlit.app/))**  
+**[Link]((https://text-summarizer-using-ai.streamlit.app/](https://text-summarizer-using-ai.streamlit.app/)))**  
 
 ---
 
