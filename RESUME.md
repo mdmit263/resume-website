@@ -60,6 +60,13 @@
 **[Link](https://resume-jd-matcher.streamlit.app/)** 
 
 ---
+### **Driver Drowsiness AI – Real-Time Driver Monitoring System**    *(July 2025)*
+•	Developed a system using OpenCV, MediaPipe, Python, and Streamlit to detect drowsiness and yawning via EAR/MAR detection.
+•	Implemented real-time alerts, event logging, and dashboard visualization for driver safety monitoring.
+
+**[Link](https://mdmit263.github.io/resume-website/)**
+
+---
 
 ### **AI Text Summarizer (News/Legal)** *(Mar 2025)*
 - Built a Streamlit app to summarize long-form text using BART & T5 NLP models, reducing document review time by **40%**.  
@@ -82,13 +89,21 @@
 
 ### **Senior Software Developer**  
 **Reliance Jio Platforms, Mumbai, India**  
-📅 Feb 2023 – Mar 2024  
+📅 Aug 2023 – Sep 2024  
 - Engineered web applications for 50,000+ daily users, enhancing system scalability and performance.  
 - Automated data workflows, reducing manual effort by **30%** and increasing team efficiency.  
 - Implemented REST APIs for customer analytics, increasing data accessibility by **40%**.  
 - Collaborated with cross-functional teams to deliver secure, scalable applications, minimizing downtime by **15%**.  
 
 ---
+### **Data Analyst**                                                                                                                                                        
+**Freelancer, Mumbai, India** 
+📅 May 2023 – June 2024
+- Analyzed large operational datasets to support business and performance reporting.
+- Built automated data processing workflows, reducing manual effort by 30%.
+- Developed dashboards and reports used by internal stakeholders for monitoring and decision-making.
+- Collaborated with cross-functional teams to translate business needs into analytical outputs.
+
 
 ### **Web Developer Intern**  
 **Intermind Digital Solutions, Mumbai, India**  
