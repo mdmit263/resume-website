@@ -15,11 +15,10 @@ theme:
 css: styles.css
 
 header-includes:
-  - "<meta name=\"keywords\" content=\"doshimit3015@gmail.com, github.com, Quarto Resume\">"
+  - "<meta name='keywords' content='doshimit3015@gmail.com, github.com, Quarto Resume'>"
 
 favicon: assets/favicon.ico
 ---
-
 # **Mit Jayesh Doshi**
 ### *AI Enthusiast & Cybersecurity*
 📧 [doshimit3015@gmail.com](mailto:doshimit3015@gmail.com) | 📱 +1 (437) 966-9907 | 📍 Toronto, ON, Canada  
