@@ -4,7 +4,7 @@ profile:
 project:
   type: website
   render:
-    - RESUME.md
+    - index.qmd
 
 website:
   title: "Mit Jayesh Doshi"
