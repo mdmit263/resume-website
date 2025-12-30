@@ -1,29 +1,9 @@
----
-title: "Mit Jayesh Doshi"
-pagetitle: "Mit Doshi | Portfolio"
-description: "AI Enthusiast & Cybersecurity Professional"
-lang: en
-toc: true
-toc-location: left
-number-sections: false
-smooth-scroll: true
-
-theme:
-  light: cosmo
-  dark: darkly
-
-css: styles.css
-
-header-includes:
-  - '<meta name="keywords" content="doshimit3015@gmail.com, github.com, Quarto Resume">'
-
-favicon: assets/favicon.ico
----
-
 # **Mit Jayesh Doshi**
 ### *AI Enthusiast & Cybersecurity*
 📧 [doshimit3015@gmail.com](mailto:doshimit3015@gmail.com) | 📱 +1 (437) 966-9907 | 📍 Toronto, ON, Canada  
 🔗 [LinkedIn](www.linkedin.com/in/mit2632) | [GitHub](https://github.com/mdmit263)
+
+---
 
 ## 🧑‍💻 About Me
 - Results-driven AI and data science professional with a strong foundation in machine learning, data analytics, and software development.  
@@ -116,6 +96,14 @@ favicon: assets/favicon.ico
 - Collaborated with cross-functional teams to deliver secure, scalable applications, minimizing downtime by **15%**.  
 
 ---
+### **Data Analyst**                                                                                                                                                        
+**Freelancer, Mumbai, India** 
+📅 May 2023 – June 2024
+- Analyzed large operational datasets to support business and performance reporting.
+- Built automated data processing workflows, reducing manual effort by 30%.
+- Developed dashboards and reports used by internal stakeholders for monitoring and decision-making.
+- Collaborated with cross-functional teams to translate business needs into analytical outputs.
+
 
 ### **Web Developer Intern**  
 **Intermind Digital Solutions, Mumbai, India**  
@@ -134,5 +122,4 @@ favicon: assets/favicon.ico
   
 
 ---
-
 
