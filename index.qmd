@@ -1,24 +1,12 @@
 ---
 title: "Mit Jayesh Doshi"
-pagetitle: "Mit Doshi | Portfolio"
 description: "AI Enthusiast & Cybersecurity Professional"
 lang: en
 toc: true
-toc-location: left
 number-sections: false
-smooth-scroll: true
-
-theme:
-  light: cosmo
-  dark: darkly
-
 css: styles.css
-
-header-includes:
-  - "<meta name=\"keywords\" content=\"doshimit3015@gmail.com, github.com, Quarto Resume\">"
-
-favicon: assets/favicon.ico
 ---
+
 
 # **Mit Jayesh Doshi**
 ### *AI Enthusiast & Cybersecurity*
