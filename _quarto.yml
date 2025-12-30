@@ -20,5 +20,3 @@ format:
     css: styles.css
     link-external-newwindow: true
     page-layout: full
-    header-includes:
-      - "<meta name=\"keywords\" content=\"doshimit3015@gmail.com, github.com, Quarto Resume\">"
