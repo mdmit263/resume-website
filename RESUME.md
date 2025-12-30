@@ -1,62 +1,125 @@
-# Jane Doe
-Data Analyst
-| [example@gmail.com](mailto:example@gmail.com)
-| [+254 777 777 777](tel:+254777777777)
-| [example.com](https://example.com)
-| [linkedin.com/in/janedoe](https://www2.linkedin.com/in/janedoe/)
+# **Mit Jayesh Doshi**
+### *AI Enthusiast & Cybersecurity*
+📧 [doshimit3015@gmail.com](mailto:doshimit3015@gmail.com) | 📱 +1 (437) 966-9907 | 📍 Toronto, ON, Canada  
+🔗 [LinkedIn](www.linkedin.com/in/mit2632) | [GitHub](https://github.com/mdmit263)
 
-## About me
-Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology.
+---
 
-## Work Experience
+## 🧑‍💻 About Me
+- Results-driven AI and data science professional with a strong foundation in machine learning, data analytics, and software development.  
+- Experienced in designing scalable, data-driven systems and deploying AI models for automation and business insights.  
+- Skilled in Python, SQL, and cloud technologies, with proven success in extracting actionable insights from large datasets and building intelligent applications aligned with organizational goals.
 
-### Data Analyst, ABC Tech Solutions
-*January 2023 - Present*
+---
 
-- Utilize data analysis to optimize business operations and increase efficiency
-- Collaborate with cross-functional teams to develop predictive models
-- Lead data visualization projects to present findings to stakeholders
+## 🛠️ Skills
 
-### Junior Data Analyst, XYZ Corp
-*June 2021 - December 2022*
+| Programming | Data & AI Tools | Cloud & DevOps | Visualization |
+|--------------|----------------|----------------|----------------|
+| Python | NumPy, Pandas | Google Cloud | Power BI |
+| SQL | Matplotlib, Seaborn | Azure | Streamlit |
+| Java | LangChain | Docker |  |
+| C | MISP | DigitalOcean |  |
+| JavaScript |  | MongoDB |  |
 
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
+---
 
-## Education
+## 🎓 Education
 
-### Bachelor of Science in Data Science  
-*University of Nairobi*  
-*2017 - 2021*
+**Post Graduate Certificate in Applied A.I. Solutions Development**  
+*George Brown College, Toronto, ON*  
+📅 Sep 2025 – Current  
 
-## Skills
+**Post Graduate Certificate in Cybersecurity and Threat Management**  
+*Seneca College, Toronto, ON* | CGPA: **3.9 / 4.0**  
+📅 Sep 2024 – Apr 2025  
 
-- Data Analysis: Python, SQL, R
-- Visualization Tools: Tableau, PowerBI
-- Machine Learning: Scikit-learn, TensorFlow
-- Statistical Analysis: STATA, SPSS
+**Bachelor of Science in Computer Science**  
+*Mumbai University, Mumbai, India* | CGPA: **8.06 / 10**  
+📅 Jun 2020 – Mar 2023  
 
-## Certifications
+---
 
-- Google Data Analytics Professional Certificate - 2022
-- Microsoft Certified: Azure Data Scientist Associate - 2021
+## 🚀 Projects - [GitHub](https://github.com/mdmit263)
 
-## Projects
+### **Cyber Threat Intelligence Automation & Analytics** *(Sep 2025)*
+- Designed and deployed a Docker-based MISP integration automating live threat feeds (APT28, APT29, CIRCL, OpenCTI), improving analyst response speed by **25%**.  
+- Built ELK dashboards for real-time visualization of threat categories, IOC timelines, and adversary behaviors.  
+- Developed an AI-driven cybersecurity chatbot with Google Gemini API, VirusTotal API, and Gradio, enabling instant IOC enrichment and reducing analyst workload by **30%**.  
+- Optimized processing pipeline, reducing IOC ingestion time to ~2 minutes/dataset, cutting risks by **12.5%**.  
+**Tools:** Docker, MISP, ELK, Google Gemini API, VirusTotal API, Gradio, Python  
 
-### Sales Forecasting Model
-Developed a sales forecasting model using machine learning algorithms to predict future sales trends based on historical data.
+---
 
-### Customer Segmentation Analysis
-Conducted customer segmentation analysis using clustering techniques to enhance targeted marketing campaigns.
+### **AI Resume & Job Description Matcher** *(Jun 2025)*
+- Built an NLP-based matching engine to compare resumes with job descriptions, achieving **85%+** accuracy in semantic similarity.  
+- Designed a keyword recommendation system, boosting applicant ATS scores by **20–30%**.  
+- Deployed a full-stack Streamlit Cloud app with CI/CD pipelines using GitHub Actions for real-time updates.  
+**Tools:** Python, Streamlit, Sentence-Transformers, GitHub Actions
 
-## Languages
+**[Link](https://resume-jd-matcher.streamlit.app/)** 
 
-- English: Fluent
-- Swahili: Native
+---
+### **Driver Drowsiness AI – Real-Time Driver Monitoring System**    *(July 2025)*
+•	Developed a system using OpenCV, MediaPipe, Python, and Streamlit to detect drowsiness and yawning via EAR/MAR detection.
+•	Implemented real-time alerts, event logging, and dashboard visualization for driver safety monitoring.
 
-## Interests
+**[Link](https://mdmit263.github.io/resume-website/)**
 
-- Hiking
-- Technology
-- Photography
+---
+
+### **AI Text Summarizer (News/Legal)** *(Mar 2025)*
+- Built a Streamlit app to summarize long-form text using BART & T5 NLP models, reducing document review time by **40%**.  
+- Added adjustable summary-length sliders and deployed on Streamlit Cloud with **98% uptime**.  
+**Tools:** Python, Streamlit, Hugging Face Transformers
+
+**[Link](https://text-summarizer-using-ai.streamlit.app/)**  
+
+---
+
+## 💼 Work Experience
+
+### **Customer Service Manager**  
+**Walmart, Toronto, ON, Canada**  
+📅 Oct 2024 – Current  
+- Led and managed a team of 15+ employees, ensuring compliance with company standards and driving efficient daily operations.  
+- Addressed escalated customer inquiries, boosting customer satisfaction scores by **20%** and shortening issue resolution time by **15%**.  
+
+---
+
+### **Senior Software Developer**  
+**Reliance Jio Platforms, Mumbai, India**  
+📅 Aug 2023 – Sep 2024  
+- Engineered web applications for 50,000+ daily users, enhancing system scalability and performance.  
+- Automated data workflows, reducing manual effort by **30%** and increasing team efficiency.  
+- Implemented REST APIs for customer analytics, increasing data accessibility by **40%**.  
+- Collaborated with cross-functional teams to deliver secure, scalable applications, minimizing downtime by **15%**.  
+
+---
+### **Data Analyst**                                                                                                                                                        
+**Freelancer, Mumbai, India** 
+📅 May 2023 – June 2024
+- Analyzed large operational datasets to support business and performance reporting.
+- Built automated data processing workflows, reducing manual effort by 30%.
+- Developed dashboards and reports used by internal stakeholders for monitoring and decision-making.
+- Collaborated with cross-functional teams to translate business needs into analytical outputs.
+
+
+### **Web Developer Intern**  
+**Intermind Digital Solutions, Mumbai, India**  
+📅 Sep 2022 – Dec 2022  
+- Developed and maintained dynamic websites using HTML, CSS, JavaScript, and PHP, increasing client website traffic by **15%**.  
+- Enhanced website performance, cutting load time by **20%** and boosting SEO ranking by **10%**.  
+- Managed MySQL databases and Git workflows, reducing deployment errors by **25%**.  
+
+---
+
+## 📜 Certifications
+
+- **Power BI** – Udemy *(Aug 2025)*
+- **CCNA IP Addressing and Subnetting** – GNS3 Academy *(Oct 2024)*  
+- **Python 101 for Data Science, Tableau** – IBM Skills Network *(Mar 2023)*  
+  
+
+---
+
