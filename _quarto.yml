@@ -1,12 +1,54 @@
+profile:
+  default: development
+
 project:
   type: website
+  pre-render:
+    - ./pre-render.py
+  post-render:
+    - ./post-render.py
   render:
-    - index.qmd
+    - "RESUME.md"
 
 website:
   title: "Mit Jayesh Doshi"
   description: "AI Enthusiast & Cybersecurity Professional"
   favicon: "assets/favicon.ico"
+
+  navbar:
+    background: dark
+    search: false
+    left:
+      - text: "Home"
+        href: "index.html"
+      - text: "Education"
+        href: "index.html#education"
+      - text: "Projects"
+        href: "index.html#projects"
+      - text: "Certifications"
+        href: "index.html#certifications"
+      - text: "Contact"
+        href: "index.html#contact"
+    right:
+      - icon: github
+        href: "https://github.com/mdmit263"
+      - icon: linkedin
+        href: "https://linkedin.com/in/mitjayeshdoshi"
+      - icon: envelope
+        href: "mailto:doshimit3015@gmail.com"
+
+  page-footer:
+    border: true
+    background: dark
+    center: 
+      - text: "<b>Download PDF</b>"
+        href: "/index.pdf"
+      - text: "© 2025 Mit Jayesh Doshi — All Rights Reserved"
+    right:
+      - text: "Back to Top"
+        href: "#top"
+
+format-links: false
 
 format:
   html:
@@ -20,3 +62,7 @@ format:
     css: styles.css
     link-external-newwindow: true
     page-layout: full
+  pdf: default
+
+resources:
+  - CNAME
