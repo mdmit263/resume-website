@@ -116,14 +116,6 @@ favicon: assets/favicon.ico
 - Collaborated with cross-functional teams to deliver secure, scalable applications, minimizing downtime by **15%**.  
 
 ---
-### **Data Analyst**                                                                                                                                                        
-**Freelancer, Mumbai, India** 
-📅 May 2023 – June 2024
-- Analyzed large operational datasets to support business and performance reporting.
-- Built automated data processing workflows, reducing manual effort by 30%.
-- Developed dashboards and reports used by internal stakeholders for monitoring and decision-making.
-- Collaborated with cross-functional teams to translate business needs into analytical outputs.
-
 
 ### **Web Developer Intern**  
 **Intermind Digital Solutions, Mumbai, India**  
