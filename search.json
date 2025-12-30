@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mit Jayesh Doshi",
+    "section": "",
+    "text": "AI Enthusiast & Cybersecurity\n📧 doshimit3015@gmail.com | 📱 +1 (437) 966-9907 | 📍 Toronto, ON, Canada\n🔗 LinkedIn | GitHub\n\n\n\nResults-driven AI and data science professional with expertise in machine learning, data analytics, and software development. Skilled in Python, SQL, cloud technologies, and building intelligent applications. Experienced in designing scalable, data-driven systems for automation and actionable business insights.\n\n\n\n\n\nProgramming: Python, SQL, Java, C, JavaScript\n\nData & AI Tools: NumPy, Pandas, Matplotlib, Seaborn, LangChain, MISP\n\nCloud & DevOps: Google Cloud, Azure, Docker, DigitalOcean\n\nVisualization: Power BI, Streamlit\n\n\n\n\n\nPost Graduate Certificate in Applied A.I. Solutions Development\nGeorge Brown College, Toronto, ON | Sep 2025 – Current\nPost Graduate Certificate in Cybersecurity and Threat Management\nSeneca College, Toronto, ON | CGPA: 3.9 / 4.0 | Sep 2024 – Apr 2025\nBachelor of Science in Computer Science\nMumbai University, Mumbai, India | CGPA: 8.06 / 10 | Jun 2020 – Mar 2023\n\n\n\n\n\n\nSep 2025\n- Deployed Docker-based MISP integration automating live threat feeds (APT28, APT29, CIRCL, OpenCTI), improving analyst response speed by 25%.\n- Built ELK dashboards for real-time visualization of threat categories, IOC timelines, and adversary behaviors.\n- Developed an AI-driven cybersecurity chatbot with Google Gemini API, VirusTotal API, and Gradio, reducing analyst workload by 30%.\n- Optimized IOC processing pipeline, reducing ingestion time to ~2 minutes/dataset.\nTools: Docker, MISP, ELK, Google Gemini API, VirusTotal API, Gradio, Python\n\n\n\nJun 2025\n- Built an NLP matching engine comparing resumes to job descriptions with 85%+ accuracy.\n- Developed keyword recommendation system, boosting ATS scores by 20–30%.\n- Deployed full-stack Streamlit Cloud app with CI/CD pipelines using GitHub Actions.\nTools: Python, Streamlit, Sentence-Transformers, GitHub Actions\nApp Link\n\n\n\nJul 2025\n- Developed system using OpenCV, MediaPipe, Python, and Streamlit for real-time drowsiness detection via EAR/MAR.\n- Implemented alerts, logging, and dashboards for driver safety monitoring.\nApp Link\n\n\n\nMar 2025\n- Built Streamlit app summarizing long-form text using BART & T5 NLP models, reducing review time by 40%.\n- Adjustable summary-length sliders and 98% uptime on Streamlit Cloud.\nTools: Python, Streamlit, Hugging Face Transformers\nApp Link\n\n\n\n\n\n\n\nToronto, ON, Canada | Oct 2024 – Current\n- Led a team of 15+ employees, ensuring compliance with company standards and efficient operations.\n- Improved customer satisfaction by 20% and reduced resolution time by 15%.\n\n\n\nMumbai, India | Aug 2023 – Sep 2024\n- Built web apps for 50,000+ daily users; automated data workflows reducing manual effort by 30%.\n- Implemented REST APIs for analytics, increasing data accessibility by 40%.\n\n\n\nMumbai, India | May 2023 – Jun 2024\n- Analyzed operational datasets to support reporting.\n- Built automated workflows and dashboards for internal stakeholders.\n\n\n\nMumbai, India | Sep 2022 – Dec 2022\n- Developed dynamic websites, improving traffic by 15% and SEO ranking by 10%.\n- Managed MySQL databases and Git workflows.\n\n\n\n\n\n\nPower BI – Udemy (Aug 2025)\n\nCCNA IP Addressing and Subnetting – GNS3 Academy (Oct 2024)\n\nPython 101 for Data Science, Tableau – IBM Skills Network (Mar 2023)"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Mit Jayesh Doshi",
+    "section": "",
+    "text": "Results-driven AI and data science professional with expertise in machine learning, data analytics, and software development. Skilled in Python, SQL, cloud technologies, and building intelligent applications. Experienced in designing scalable, data-driven systems for automation and actionable business insights."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Mit Jayesh Doshi",
+    "section": "",
+    "text": "Programming: Python, SQL, Java, C, JavaScript\n\nData & AI Tools: NumPy, Pandas, Matplotlib, Seaborn, LangChain, MISP\n\nCloud & DevOps: Google Cloud, Azure, Docker, DigitalOcean\n\nVisualization: Power BI, Streamlit"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Mit Jayesh Doshi",
+    "section": "",
+    "text": "Post Graduate Certificate in Applied A.I. Solutions Development\nGeorge Brown College, Toronto, ON | Sep 2025 – Current\nPost Graduate Certificate in Cybersecurity and Threat Management\nSeneca College, Toronto, ON | CGPA: 3.9 / 4.0 | Sep 2024 – Apr 2025\nBachelor of Science in Computer Science\nMumbai University, Mumbai, India | CGPA: 8.06 / 10 | Jun 2020 – Mar 2023"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Mit Jayesh Doshi",
+    "section": "",
+    "text": "Sep 2025\n- Deployed Docker-based MISP integration automating live threat feeds (APT28, APT29, CIRCL, OpenCTI), improving analyst response speed by 25%.\n- Built ELK dashboards for real-time visualization of threat categories, IOC timelines, and adversary behaviors.\n- Developed an AI-driven cybersecurity chatbot with Google Gemini API, VirusTotal API, and Gradio, reducing analyst workload by 30%.\n- Optimized IOC processing pipeline, reducing ingestion time to ~2 minutes/dataset.\nTools: Docker, MISP, ELK, Google Gemini API, VirusTotal API, Gradio, Python\n\n\n\nJun 2025\n- Built an NLP matching engine comparing resumes to job descriptions with 85%+ accuracy.\n- Developed keyword recommendation system, boosting ATS scores by 20–30%.\n- Deployed full-stack Streamlit Cloud app with CI/CD pipelines using GitHub Actions.\nTools: Python, Streamlit, Sentence-Transformers, GitHub Actions\nApp Link\n\n\n\nJul 2025\n- Developed system using OpenCV, MediaPipe, Python, and Streamlit for real-time drowsiness detection via EAR/MAR.\n- Implemented alerts, logging, and dashboards for driver safety monitoring.\nApp Link\n\n\n\nMar 2025\n- Built Streamlit app summarizing long-form text using BART & T5 NLP models, reducing review time by 40%.\n- Adjustable summary-length sliders and 98% uptime on Streamlit Cloud.\nTools: Python, Streamlit, Hugging Face Transformers\nApp Link"
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "Mit Jayesh Doshi",
+    "section": "",
+    "text": "Toronto, ON, Canada | Oct 2024 – Current\n- Led a team of 15+ employees, ensuring compliance with company standards and efficient operations.\n- Improved customer satisfaction by 20% and reduced resolution time by 15%.\n\n\n\nMumbai, India | Aug 2023 – Sep 2024\n- Built web apps for 50,000+ daily users; automated data workflows reducing manual effort by 30%.\n- Implemented REST APIs for analytics, increasing data accessibility by 40%.\n\n\n\nMumbai, India | May 2023 – Jun 2024\n- Analyzed operational datasets to support reporting.\n- Built automated workflows and dashboards for internal stakeholders.\n\n\n\nMumbai, India | Sep 2022 – Dec 2022\n- Developed dynamic websites, improving traffic by 15% and SEO ranking by 10%.\n- Managed MySQL databases and Git workflows."
+  },
+  {
+    "objectID": "index.html#certifications",
+    "href": "index.html#certifications",
+    "title": "Mit Jayesh Doshi",
+    "section": "",
+    "text": "Power BI – Udemy (Aug 2025)\n\nCCNA IP Addressing and Subnetting – GNS3 Academy (Oct 2024)\n\nPython 101 for Data Science, Tableau – IBM Skills Network (Mar 2023)"
+  }
+]
