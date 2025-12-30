@@ -1,9 +1,29 @@
+---
+title: "Mit Jayesh Doshi"
+pagetitle: "Mit Doshi | Portfolio"
+description: "AI Enthusiast & Cybersecurity Professional"
+lang: en
+toc: true
+toc-location: left
+number-sections: false
+smooth-scroll: true
+
+theme:
+  light: cosmo
+  dark: darkly
+
+css: styles.css
+
+header-includes:
+  - '<meta name="keywords" content="doshimit3015@gmail.com, github.com, Quarto Resume">'
+
+favicon: assets/favicon.ico
+---
+
 # **Mit Jayesh Doshi**
 ### *AI Enthusiast & Cybersecurity*
 📧 [doshimit3015@gmail.com](mailto:doshimit3015@gmail.com) | 📱 +1 (437) 966-9907 | 📍 Toronto, ON, Canada  
 🔗 [LinkedIn](www.linkedin.com/in/mit2632) | [GitHub](https://github.com/mdmit263)
-
----
 
 ## 🧑‍💻 About Me
 - Results-driven AI and data science professional with a strong foundation in machine learning, data analytics, and software development.  
