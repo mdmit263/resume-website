@@ -3,12 +3,8 @@ profile:
 
 project:
   type: website
-  pre-render:
-    - ./pre-render.py
-  post-render:
-    - ./post-render.py
   render:
-    - "RESUME.md"
+    - index.qmd
 
 website:
   title: "Mit Jayesh Doshi"
@@ -20,15 +16,15 @@ website:
     search: false
     left:
       - text: "Home"
-        href: "index.html"
+        href: "#top"
       - text: "Education"
-        href: "index.html#education"
+        href: "#education"
       - text: "Projects"
-        href: "index.html#projects"
+        href: "#projects"
       - text: "Certifications"
-        href: "index.html#certifications"
+        href: "#certifications"
       - text: "Contact"
-        href: "index.html#contact"
+        href: "#contact"
     right:
       - icon: github
         href: "https://github.com/mdmit263"
@@ -40,15 +36,13 @@ website:
   page-footer:
     border: true
     background: dark
-    center: 
-      - text: "<b>Download PDF</b>"
-        href: "/index.pdf"
+    center:
+      - text: "<strong>Download PDF</strong>"
+        href: "index.pdf"
       - text: "© 2025 Mit Jayesh Doshi — All Rights Reserved"
     right:
       - text: "Back to Top"
         href: "#top"
-
-format-links: false
 
 format:
   html:
